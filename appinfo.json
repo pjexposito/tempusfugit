@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "pjexposito@gmail.com",
+    "longName": "Tempus Fugit",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/minimagen.png",
+                "menuIcon": true,
+                "name": "MINI_IMAGEN",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Tempus_fugit",
+    "uuid": "6ebf773e-9f99-4fc1-bee5-42ae99d961de",
+    "versionCode": 1,
+    "versionLabel": "0.2",
+    "watchapp": {
+        "watchface": true
+    }
+}
